@@ -2,8 +2,6 @@
 
 #### [ [github](https://github.com/ky1e-cyber) ] . [ mail: sxrose1.o@gmail.com ] . [ tg: @sxrose1 ]
 
-\
-
 Projects
 --------
 
