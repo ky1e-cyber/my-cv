@@ -1,2 +1,1 @@
-# my-cv
-Just my CV
+### Just my CV
