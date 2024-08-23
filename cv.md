@@ -16,7 +16,7 @@ Education
 
   **\[BSc\]** System Programming at NSU MMD (2022-2024)
 
-  **\[BSc\]** CS & System System Design at NSU ITD (2024-present)
+  **\[BSc\]** CS & System Design at NSU ITD (2024-present)
 
 Interests
 ---------
